@@ -35,7 +35,7 @@ The end goal is to provide insights for a data-driven decision-making and enhanc
   - Formulas for Customer Segmentation
   - Pivot Tables & Charts
 
-![Customer Insights Dashboard](image/Customer%20Insights%20Dashboard.png)
+![Customer Insights Dashboard](images/Customer%20Insights%20Dashboard.png)
 
 ---
 
@@ -46,7 +46,7 @@ The end goal is to provide insights for a data-driven decision-making and enhanc
   - Pivot Tables with Slicers
   - GETPIVOTDATA for data referencing 
 
-![Financial Health Dashboard](image/Financial%20Health%20Dashboard.png)
+![Financial Health Dashboard](images/Financial%20Health%20Dashboard.png)
 
 ---
 
@@ -59,7 +59,7 @@ The end goal is to provide insights for a data-driven decision-making and enhanc
   - Dynamic Slicers for Domain and Status
   - Pivot Tables
 
-![Shipment Overview Dashboard](image/Shipment%20Overview%20Dashboard.png)
+![Shipment Overview Dashboard](images/Shipment%20Overview%20Dashboard.png)
 
 ---
 
